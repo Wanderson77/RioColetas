@@ -1,4 +1,5 @@
 # App Demo
+
 > Este APP tem a função de aproximar e facilitar ....
 
 ![App Demo](/src/assets/app-anime.gif "App Demo")
@@ -6,8 +7,6 @@
 ## Mobile Apps
 
 + Facebook Login
-+ ASO
-+ Mobile Marketing
 + Geolocalização
 
 ## React Native Features
