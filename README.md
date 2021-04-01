@@ -25,28 +25,20 @@
 + Scroll infinito
 + Place Graph
 
-## Firebase Features
+## Dev Tools Experience (Feat)
 
-+ Authentication
-+ RealTime db
-+ Analytics
-+ Cloud Messaging
-+ Storage
-+ AppIndex
-+ AdMob
-
-## Dev Tools Experience
-
++ TypeScript | JavaScript
 + VSCode
-+ Figma
-+ Storybook
-+ Material UI
-+ TypeScript
++ Firebase
++ CI | CD (App Center / GitHub Actions)
++ Tests | React Test Library
++ Docker | Kubernetes
++ ServerLess (AWS)
++ Insomnia | Postman
++ GraphQL | API Rest
 
 ## Monetização
 
 + In App Purchase
-
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
