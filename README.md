@@ -17,13 +17,14 @@
 + Function Components
 + AirBnB styles
 + Styled Components
-+ React Navigation
-+ Context API
-+ Sliding Card
-+ Map animation
-+ Imagens com LazyLoad
-+ Scroll infinito
-+ Place Graph
++ Splash screens
++ App icons
++ Loading placeholders
++ Handling and tracking errors
++ Fetching data
++ Icons
++ Images
++ Forms
 
 ## Dev Tools Experience (Feat)
 
