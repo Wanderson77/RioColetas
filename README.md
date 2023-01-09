@@ -26,17 +26,20 @@
 + Images
 + Forms
 
-## Dev Tools Experience (Feat)
+## DX
 
-+ TypeScript | JavaScript
-+ VSCode
-+ Firebase
-+ CI | CD (App Center / GitHub Actions)
-+ Tests | React Test Library
-+ Docker | Kubernetes
-+ ServerLess (AWS)
-+ Insomnia | Postman
++ VSCode + TypeScript | JavaScript
++ Linter Style AirBnB + Prettier
++ Figma + Storybook
++ ReactoTron
++ Flipper
++ Husky + Lint-staged
++ CommitLint + Commitizen
++ Tests (Jest / React Test Library / Detox)
 + GraphQL | API Rest
++ Insomnia | Postman
++ CI | CD (App Center / GitHub Actions / FastLane / TestFlight)
++ Docker | Kubernetes
 
 ## Monetização
 
