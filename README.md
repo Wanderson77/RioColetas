@@ -12,10 +12,10 @@
 + Facebook Login
 + Geolocalização
 
-## React Native Features
+## React Native Feat
 
-+ Function Components
-+ AirBnB styles
++ Hooks
++ Core Components
 + Styled Components
 + Splash screens
 + App icons
@@ -25,6 +25,17 @@
 + Icons
 + Images
 + Forms
+
+## Firebase
+
++ Authentication
++ RealTime db
++ Analytics
++ Cloud Messaging
++ Storage
++ AppIndex
++ Cloud Functions
++ AdMob
 
 ## DX
 
