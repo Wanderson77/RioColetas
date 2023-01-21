@@ -12,11 +12,13 @@
 + Facebook Login
 + Geolocalização
 
-## React Native Feat
+## React Native / I Love This
 
 + Hooks
 + Core Components
++ Flexbox Layout
 + Styled Components
++ UI Kit NativeBase
 + Splash screens
 + App icons
 + Loading placeholders
