@@ -27,6 +27,8 @@
 + Icons
 + Images
 + Forms
++ Context API
++ Google Maps API
 
 ## Firebase
 
