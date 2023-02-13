@@ -5,7 +5,7 @@
 >
 > Seu marketplace de coleta de resíduos.
 
-![App Demo](/src/assets/app-anime.gif "App Demo")
+![App Demo](/src/assets/app-base.png "App Demo")
 
 ## Mobile Apps
 
@@ -19,6 +19,7 @@
 + Flexbox Layout
 + Styled Components
 + UI Kit NativeBase
++ React Navigation Tabs
 + Splash screens
 + App icons
 + Loading placeholders
@@ -29,6 +30,7 @@
 + Forms
 + Context API
 + Google Maps API
++ ...e mais
 
 ## Firebase
 
