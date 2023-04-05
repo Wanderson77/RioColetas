@@ -7,7 +7,7 @@
 
 ![App Demo](/src/assets/app-base.png "App Demo")
 
-## Mobile Apps
+## Features
 
 + Facebook Login
 + Geolocalização
@@ -21,12 +21,8 @@
 + UI Kit NativeBase
 + React Navigation Tabs
 + Splash screens
-+ App icons
-+ Loading placeholders
 + Handling and tracking errors
 + Fetching data
-+ Icons
-+ Images
 + Forms
 + Context API
 + Google Maps API
