@@ -1,17 +1,23 @@
 /** Simple comp */
-import React, { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { View, Text } from 'react-native'
-import { styles } from './style'
+import { styles } from './styles'
 
 const index = () => {
-  const [state, setSate] = useState()
+  const [state, setState] = useState();
   const [garbage, setGarbage] = useState([]);
 
-  useEffects(() => {},[]);
+  function handleActionUser() {
+    console.log("Native");
+  }
+
+  useEffect(() => {
+    console.log("RN");
+  },[]);
 
   return (
     <View style={styles.container}>
-      <Text>index</Text>
+      <Text style={styles.text}>index</Text>
     </View>
   )
 }
