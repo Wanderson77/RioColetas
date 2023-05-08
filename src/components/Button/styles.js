@@ -19,4 +19,17 @@ const styles = StyleSheet.create({
     padding: 10,
     borderRadius: 10,
   },
+  img:{
+    height: 50,
+    width: '100%',
+    justifyContent: 'center',
+  },
+  textInput:{
+    height: 56,
+    width: '100%',
+    backgroundColor: '#323238',
+    borderRadius: 5,
+    padding: 16,
+    color: '#FFFFFF',
+  }
 })
