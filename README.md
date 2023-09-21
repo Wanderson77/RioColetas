@@ -12,20 +12,4 @@
 + Facebook Login
 + Geolocalização
 
-## React Native / I Love This
-
-+ Hooks
-+ Core Components
-+ Flexbox Layout
-+ Styled Components
-+ UI Kit NativeBase
-+ React Navigation Tabs
-+ Splash screens
-+ Handling and tracking errors
-+ Fetching data
-+ Forms
-+ Context API
-+ Google Maps API
-+ ...e mais
-
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
