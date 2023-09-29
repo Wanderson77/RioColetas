@@ -6,10 +6,3 @@
 > Seu marketplace de coleta de resíduos.
 
 ![App Demo](/src/assets/app-base.png "App Demo")
-
-## Features
-
-+ Facebook Login
-+ Geolocalização
-
-Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
